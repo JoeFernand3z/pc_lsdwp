@@ -1,6 +1,8 @@
 # pc_lsdwp
 
-A little edit of LSDWP to enhance the RP on your Server
+A little edit of LSDWP to enhance the RP on your Server.
+
+When you enter LSDWP the gates are static. With this edit, you can open them and enter the area.
 
 Video preview:
 
